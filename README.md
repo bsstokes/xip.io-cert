@@ -2,7 +2,7 @@
 
 If you use [xip.io](http://xip.io/) with your development environment, here's an SSL certificate that might come in handy.
 
-**This certificate is for development only.** You're browser will probably complain that it's self-signed and hasn't been verified.
+**This certificate is for development only.** Your browser will probably complain that it's self-signed and hasn't been verified.
 
 - `xip.io.key` -- *Private* key
 - `xip.io.csr` -- Certificate signing request
